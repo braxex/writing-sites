@@ -1,5 +1,7 @@
 # Writing Sites
 
+Writing Sites is a national survey of collegiate writing programs undertaken by researchers at UC Davis. It aims to increase program success and sustainability by analyzing gathered data on existing programs, initiatives, and outcomes.
+
 ## Getting Started
 
 First, run the development server:
