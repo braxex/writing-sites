@@ -4,6 +4,16 @@ Writing Sites is a national survey of collegiate writing programs undertaken by 
 
 ## Getting Started
 
+Setup an env.local file, in order to see any data results from the providing survery api. Required fields include:
+
+```
+DATACENTER_ID = placeholder
+QUALTRICS_CLIENT = placeholder
+QUALTRICS_SECRET = placeholder
+WAC_SURVEY = placeholder
+WID_SURVEY = placeholder
+```
+
 First, run the development server:
 
 ```bash
